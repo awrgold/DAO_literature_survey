@@ -27,7 +27,7 @@
 
 1. MakerDAO: https://makerdao.com
 
-  - https://makerdao.com/en/whitepaper
+    - https://makerdao.com/en/whitepaper
 
 1. MolochDAO: https://www.molochdao.com/
 
@@ -49,7 +49,7 @@
 
 1. MetaCartel: https://www.metacartel.org/
 
-  - MetaCartel Ventures (VC): https://metacartel.xyz/
+    - MetaCartel Ventures (VC): https://metacartel.xyz/
 
 1. The LAO: https://www.thelao.io/
 
@@ -59,7 +59,7 @@
 
 1. Friends with Benefits: https://www.fwb.help/
 
-  - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
+    - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
 
   
 
