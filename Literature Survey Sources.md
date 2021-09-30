@@ -25,39 +25,39 @@
 
 **Noteworthy DAOs:**
 
-- MakerDAO: https://makerdao.com
+1. MakerDAO: https://makerdao.com
 
   - https://makerdao.com/en/whitepaper
 
-- MolochDAO: https://www.molochdao.com/
+1. MolochDAO: https://www.molochdao.com/
 
-- Colony: https://colony.io/
+1. Colony: https://colony.io/
 
-- Compound Finance: https://compound.finance/docs
+1. Compound Finance: https://compound.finance/docs
 
-- Yearn Finance: https://docs.yearn.finance/
+1. Yearn Finance: https://docs.yearn.finance/
 
-- Uniswap Governance: https://docs.uniswap.org/protocol/V2/concepts/governance/overview
+1. Uniswap Governance: https://docs.uniswap.org/protocol/V2/concepts/governance/overview
 
-- 1Hive: https://1hive.org/#/home
+1. 1Hive: https://1hive.org/#/home
 
-- DeepWork: https://deepwork.studio/
+1. DeepWork: https://deepwork.studio/
 
-- RaidGuild: https://www.raidguild.org/
+1. RaidGuild: https://www.raidguild.org/
 
-- TokenEngineering: https://tokenengineeringcommunity.github.io/website/
+1. TokenEngineering: https://tokenengineeringcommunity.github.io/website/
 
-- MetaCartel: https://www.metacartel.org/
+1. MetaCartel: https://www.metacartel.org/
 
   - MetaCartel Ventures (VC): https://metacartel.xyz/
 
-- The LAO: https://www.thelao.io/
+1. The LAO: https://www.thelao.io/
 
-- Gamestarter: https://gamestarter.gitbook.io/gamestarter/
+1. Gamestarter: https://gamestarter.gitbook.io/gamestarter/
 
-- Mirror: https://mirror.xyz/
+1. Mirror: https://mirror.xyz/
 
-- Friends with Benefits: https://www.fwb.help/
+1. Friends with Benefits: https://www.fwb.help/
 
   - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
 
