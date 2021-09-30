@@ -78,9 +78,9 @@
 1. **Rollups:**
    1. https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/
    2. https://vitalik.ca/general/2021/01/05/rollup.html
-1. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
-1. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
-1. **DAOstack:** https://daostack-1.gitbook.io/v1/
+2. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
+3. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
+5. **DAOstack:** https://daostack-1.gitbook.io/v1/
    1. 
 
 
@@ -91,8 +91,15 @@
 2. **Ethereum 2.0 in Rust:** https://github.com/sigp/lighthouse
 3. **The DAO hack:** https://spectrum.ieee.org/ethereums-150-million-dollar-dao-opens-for-business-just-as-researchers-call-for-a-moratorium
 4. **Creation of Micro-Economies**: https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI
-
-
+5.  **Bitcoin and the rise of DAOs:** [Bitcoin and the rise of DAOs.pdf](DAO\Bitcoin and the rise of DAOs.pdf) 
+6. **Chainlink Whitepaper:** [Chainlink Whitepaper v2 - 2021.pdf](DAO\Chainlink Whitepaper v2 - 2021.pdf) 
+7. **Cryptoeconomics limits:** [Cryptoeconomics as a Limitation on Governance.pdf](DAO\Cryptoeconomics as a Limitation on Governance.pdf) 
+8. **DAO Governance:** [DAO governance 1.pdf](DAO\DAO governance 1.pdf) 
+9. **Experiments in Governance (Failed DAO):** [Experiments in Governance - the failed DAO.pdf](DAO\Experiments in Governance - the failed DAO.pdf) 
+10. **Government as a DAO:** [government-dao.pdf](DAO\government-dao.pdf) 
+11. **Economics of DeFi:** [Lisa-Jy-Tan-Economics-and-Math-of-Token-Engineering-and-DeFi_-Fundamentals-of-Token-Economics-Econom.pdf](DAO\Lisa-Jy-Tan-Economics-and-Math-of-Token-Engineering-and-DeFi_-Fundamentals-of-Token-Economics-Econom.pdf) 
+12. **Original Ethereum DAO:** [OG DAO Paper 2015.pdf](DAO\OG DAO Paper 2015.pdf) 
+13. **Social DAOs:** [Social DAO transforming economy.pdf](DAO\Social DAO transforming economy.pdf) 
 
 
 
@@ -111,3 +118,4 @@
 11. **Sybil**: Create and track on-chain governance delegation: https://sybil.org/#/delegates/uniswap
 12. **Rabbithole**: Bounties and contracts for performing on-chain tasks: https://rabbithole.gg/
 13. **Aragon:** Tool for creating DAOs (cookie-cutter): https://aragon.org/protocol
+
