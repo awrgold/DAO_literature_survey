@@ -6,6 +6,8 @@
 2. **Overview of DAO Landscape:** https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw
 3. **House of DAOs:** https://wiki.metagame.wtf/docs/great-houses/house-of-daos
 4. **(Outdated) DAO Guide by Vitalik:** https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+5. **Beyond token governance - a talk with Vitalik:** https://www.youtube.com/watch?v=apU83PaErrE
+6. 
 
 
 
@@ -98,6 +100,7 @@
 11. **Economics of DeFi:** [Lisa-Jy-Tan-Economics-and-Math-of-Token-Engineering-and-DeFi_-Fundamentals-of-Token-Economics-Econom.pdf](DAO\Lisa-Jy-Tan-Economics-and-Math-of-Token-Engineering-and-DeFi_-Fundamentals-of-Token-Economics-Econom.pdf) 
 12. **Original Ethereum DAO:** [OG DAO Paper 2015.pdf](DAO\OG DAO Paper 2015.pdf) 
 13. **Social DAOs:** [Social DAO transforming economy.pdf](DAO\Social DAO transforming economy.pdf) 
+14. **Auctions as a solution to MEV crisis:** https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788
 
 
 
@@ -116,4 +119,6 @@
 11. **Sybil**: Create and track on-chain governance delegation: https://sybil.org/#/delegates/uniswap
 12. **Rabbithole**: Bounties and contracts for performing on-chain tasks: https://rabbithole.gg/
 13. **Aragon:** Tool for creating DAOs (cookie-cutter): https://aragon.org/protocol
+14. **Cairo:** STARK proofs for computation on Ethereum: https://medium.com/starkware/hello-cairo-3cb43b13b209
+15. 
 
