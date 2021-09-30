@@ -13,9 +13,7 @@
 
 ### Cryptoeconomics and Crypto Theory:
 
-1. https://vitalik.ca/general/2021/09/26/limits.html
-2. https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766
-3. **A curated list of cryptoeconomics topics and papers:** https://github.com/jpantunes/awesome-cryptoeconomics#cryptoeconomics/?ref=dappnews
+1. **A curated list of cryptoeconomics topics and papers:** https://github.com/jpantunes/awesome-cryptoeconomics#cryptoeconomics/?ref=dappnews
 
 
 
