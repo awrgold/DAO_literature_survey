@@ -16,7 +16,6 @@
 1. https://vitalik.ca/general/2021/09/26/limits.html
 2. https://osf.io/wzf85/?view_only=a10581ae9a804aa197ac39ebbba05766
 3. **A curated list of cryptoeconomics topics and papers:** https://github.com/jpantunes/awesome-cryptoeconomics#cryptoeconomics/?ref=dappnews
-4. 
 
 
 
@@ -79,10 +78,9 @@
 1. **Rollups:**
    1. https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/
    2. https://vitalik.ca/general/2021/01/05/rollup.html
-2. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
-3. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
-4. **Aragon:** https://aragon.org/protocol
-5. **DAOstack:** https://daostack-1.gitbook.io/v1/
+1. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
+1. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
+1. **DAOstack:** https://daostack-1.gitbook.io/v1/
    1. 
 
 
@@ -112,4 +110,4 @@
 10. **Boardroom**: A governance dashboard for DAO boards: https://boardroom.info/
 11. **Sybil**: Create and track on-chain governance delegation: https://sybil.org/#/delegates/uniswap
 12. **Rabbithole**: Bounties and contracts for performing on-chain tasks: https://rabbithole.gg/
-13. 
+13. **Aragon:** Tool for creating DAOs (cookie-cutter): https://aragon.org/protocol
