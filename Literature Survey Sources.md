@@ -7,7 +7,6 @@
 3. **House of DAOs:** https://wiki.metagame.wtf/docs/great-houses/house-of-daos
 4. **(Outdated) DAO Guide by Vitalik:** https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 5. **Beyond token governance - a talk with Vitalik:** https://www.youtube.com/watch?v=apU83PaErrE
-6. 
 
 
 
@@ -26,39 +25,22 @@
 **Noteworthy DAOs:**
 
 1. MakerDAO: https://makerdao.com
-
     - https://makerdao.com/en/whitepaper
-
 1. MolochDAO: https://www.molochdao.com/
-
 1. Colony: https://colony.io/
-
 1. Compound Finance: https://compound.finance/docs
-
 1. Yearn Finance: https://docs.yearn.finance/
-
 1. Uniswap Governance: https://docs.uniswap.org/protocol/V2/concepts/governance/overview
-
 1. 1Hive: https://1hive.org/#/home
-
 1. DeepWork: https://deepwork.studio/
-
 1. RaidGuild: https://www.raidguild.org/
-
 1. TokenEngineering: https://tokenengineeringcommunity.github.io/website/
-
 1. MetaCartel: https://www.metacartel.org/
-
     - MetaCartel Ventures (VC): https://metacartel.xyz/
-
 1. The LAO: https://www.thelao.io/
-
 1. Gamestarter: https://gamestarter.gitbook.io/gamestarter/
-
 1. Mirror: https://mirror.xyz/
-
 1. Friends with Benefits: https://www.fwb.help/
-
     - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
 
   
@@ -120,5 +102,4 @@
 12. **Rabbithole**: Bounties and contracts for performing on-chain tasks: https://rabbithole.gg/
 13. **Aragon:** Tool for creating DAOs (cookie-cutter): https://aragon.org/protocol
 14. **Cairo:** STARK proofs for computation on Ethereum: https://medium.com/starkware/hello-cairo-3cb43b13b209
-15. 
 
