@@ -35,7 +35,7 @@
 1. DeepWork: https://deepwork.studio/
 1. RaidGuild: https://www.raidguild.org/
 1. TokenEngineering: https://tokenengineeringcommunity.github.io/website/
-1. MetaCartel: https://www.metacartel.org/
+1. MetaCartel (Exclusive community - 10 ETH to propose membership, plus application form & community vote to join): https://www.metacartel.org/
     - MetaCartel Ventures (VC): https://metacartel.xyz/
 1. The LAO: https://www.thelao.io/
 1. Gamestarter: https://gamestarter.gitbook.io/gamestarter/
