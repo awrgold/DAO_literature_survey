@@ -42,7 +42,8 @@
 1. Mirror: https://mirror.xyz/
 1. Friends with Benefits: https://www.fwb.help/
     - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
-
+1. TraderJoe (DeFi + Governance token): https://www.blocmates.com/blogmates/the-complete-guide-to-trader-joe-and-the-joe-token
+    - Luyuka - Tokenize unrealized yield: https://luyuka.xyz/
   
 
 
