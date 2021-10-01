@@ -78,10 +78,10 @@
 1. **Rollups:**
    1. https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/
    2. https://vitalik.ca/general/2021/01/05/rollup.html
-2. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
-3. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
-5. **DAOstack:** https://daostack-1.gitbook.io/v1/
-   1. 
+1. **Flashbots:** https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752
+1. **MEV:** https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block.
+1. **DAOstack:** https://daostack-1.gitbook.io/v1/
+1. **Chainlink Hybrid Smart Contracts**: https://blog.chain.link/chainlink-2-0-lays-foundation-for-adoption-of-hybrid-smart-contracts/
 
 
 
