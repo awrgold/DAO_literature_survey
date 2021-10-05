@@ -46,6 +46,7 @@
     - Luyuka - Tokenize unrealized yield: https://luyuka.xyz/
 1. OlympusDAO - https://www.olympusdao.finance/
     - Application to MakerDAO for onboarding: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
+1. NounsDAO - https://nouns.wtf/
   
 
 
