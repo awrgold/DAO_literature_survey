@@ -44,6 +44,8 @@
     - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
 1. TraderJoe (DeFi + Governance token): https://www.blocmates.com/blogmates/the-complete-guide-to-trader-joe-and-the-joe-token
     - Luyuka - Tokenize unrealized yield: https://luyuka.xyz/
+1. OlympusDAO - https://www.olympusdao.finance/
+    - Application to MakerDAO for onboarding: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
   
 
 
