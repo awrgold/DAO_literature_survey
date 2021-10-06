@@ -15,6 +15,7 @@
 ### Cryptoeconomics and Crypto Theory:
 
 1. **A curated list of cryptoeconomics topics and papers:** https://github.com/jpantunes/awesome-cryptoeconomics#cryptoeconomics/?ref=dappnews
+1. **Ethereum Triple Halving:** https://drive.google.com/file/d/1bECqgijhgjdS782AB620gFjK5qx-vA99/view
 
 
 
