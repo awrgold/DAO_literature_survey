@@ -21,42 +21,41 @@
 
 ### DAOs:
 
-(Massive list of DAO projects: https://docs.google.com/spreadsheets/d/16dhiRApEsZMRycL5IVG4oRUj8let_dGqdvzLbMB2mbw/edit?usp=sharing)
+- **Massive list of DAO projects:** https://docs.google.com/spreadsheets/d/16dhiRApEsZMRycL5IVG4oRUj8let_dGqdvzLbMB2mbw/edit?usp=sharing)
 
 **Noteworthy DAOs:**
 
-1. MakerDAO: https://makerdao.com
+1. **MakerDAO**: https://makerdao.com
     - https://makerdao.com/en/whitepaper
-1. MolochDAO: https://www.molochdao.com/
-1. Colony: https://colony.io/
-1. Compound Finance: https://compound.finance/docs
-1. Yearn Finance: https://docs.yearn.finance/
-1. Uniswap Governance: https://docs.uniswap.org/protocol/V2/concepts/governance/overview
-1. 1Hive: https://1hive.org/#/home
-1. DeepWork: https://deepwork.studio/
-1. RaidGuild: https://www.raidguild.org/
-1. TokenEngineering: https://tokenengineeringcommunity.github.io/website/
-1. MetaCartel (Exclusive community - 10 ETH to propose membership, plus application form & community vote to join): https://www.metacartel.org/
-    - MetaCartel Ventures (VC): https://metacartel.xyz/
-1. The LAO: https://www.thelao.io/
-1. Gamestarter: https://gamestarter.gitbook.io/gamestarter/
-1. Mirror: https://mirror.xyz/
-1. Friends with Benefits: https://www.fwb.help/
+1. **MolochDAO**: https://www.molochdao.com/
+1. **Colony**: https://colony.io/
+1. **Compound Finance**: https://compound.finance/docs
+1. **Yearn Finance**: https://docs.yearn.finance/
+1. **Uniswap Governance**: https://docs.uniswap.org/protocol/V2/concepts/governance/overview
+1. **1Hive**: https://1hive.org/#/home
+1. **DeepWork**: https://deepwork.studio/
+1. **RaidGuild**: https://www.raidguild.org/
+1. **TokenEngineering**: https://tokenengineeringcommunity.github.io/website/
+1. **MetaCartel**: https://www.metacartel.org/ (Exclusive community - 10 ETH to propose membership, plus application form & community vote to join)
+    - **MetaCartel Ventures (VC)**: https://metacartel.xyz/
+1. **The LAO**: https://www.thelao.io/
+1. **Gamestarter**: https://gamestarter.gitbook.io/gamestarter/
+1. **Mirror**: https://mirror.xyz/
+1. **Friends with Benefits**: https://www.fwb.help/
     - https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew
-1. TraderJoe (DeFi + Governance token): https://www.blocmates.com/blogmates/the-complete-guide-to-trader-joe-and-the-joe-token
-    - Luyuka - Tokenize unrealized yield: https://luyuka.xyz/
-1. OlympusDAO - https://www.olympusdao.finance/
-    - Application to MakerDAO for onboarding: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
-1. NounsDAO - https://nouns.wtf/
-1. Klima DAO - https://klimadao.finance/
-1. BrightID - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
-    - BrightDAO: the DAO governing BrightID's continued development: https://www.brightid.org/whitepaper
+1. **TraderJoe**: https://www.blocmates.com/blogmates/the-complete-guide-to-trader-joe-and-the-joe-token  (DeFi + Governance token)
+1. **OlympusDAO** - https://www.olympusdao.finance/
+    - **OlympusDAO's Application to MakerDAO for onboarding**: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
+1. **NounsDAO** - https://nouns.wtf/
+1. **Klima DAO** - https://klimadao.finance/
+1. **BrightID** - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
+    - **BrightDAO**: the DAO governing BrightID's continued development: https://www.brightid.org/whitepaper
 
 
 
 ### Legal
 
-1. Wyoming to recognize DAOs: https://www.dlapiper.com/en/us/insights/publications/2021/03/wyoming-takes-a-step-ahead-to-clarify-the-legal-status-of-decentralized-autonomous-organizations/
+1. **Wyoming to recognize DAOs**: https://www.dlapiper.com/en/us/insights/publications/2021/03/wyoming-takes-a-step-ahead-to-clarify-the-legal-status-of-decentralized-autonomous-organizations/
 
 
 
