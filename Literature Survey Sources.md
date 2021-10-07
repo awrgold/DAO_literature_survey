@@ -49,7 +49,8 @@
     - Application to MakerDAO for onboarding: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
 1. NounsDAO - https://nouns.wtf/
 1. Klima DAO - https://klimadao.finance/
-  
+1. BrightID - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
+    - BrightDAO: the DAO governing BrightID's continued development: https://www.brightid.org/whitepaper
 
 
 
