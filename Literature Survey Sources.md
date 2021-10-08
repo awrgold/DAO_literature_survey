@@ -108,4 +108,4 @@
 12. **Rabbithole**: Bounties and contracts for performing on-chain tasks: https://rabbithole.gg/
 13. **Aragon:** Tool for creating DAOs (cookie-cutter): https://aragon.org/protocol
 14. **Cairo:** STARK proofs for computation on Ethereum: https://medium.com/starkware/hello-cairo-3cb43b13b209
-
+15. **Aleph.im:** A L2 cross-chain solution for decentralized computing and storage for dApps: https://aleph.im/#/
