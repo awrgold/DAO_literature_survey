@@ -1,8 +1,15 @@
 # OlympusDAO (OHM) overview
 
+
+
+## About OHM:
 **OHM** is the governance token and primary asset. **sOHM** is the earned token from staking, which is rebased regularly into **OHM** automatically. The value is derived from the treasury's holdings of a basket of assets, including the stablecoins **DAI** and **FRAX**, as well as **ETH**.
 
+
+## How it Works:
+
 ---
+# Appendix
 
 ## Notable Addresses:
 
