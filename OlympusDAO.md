@@ -28,3 +28,13 @@
 ### DAO/Treasury:
   - **DAO**: 0x245cc372C84B3645Bf0Ffe6538620B04a217988B
   - **Treasury**: 0x31F8Cc382c9898b273eff4e0b7626a6987C846E8
+
+
+--- 
+
+## Audits
+
+  - **Peckshield:** (Smart contract audit) https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-OlympusDAO-v1.0.pdf
+  - **Omniscia:** (Treasury, distributor, staking, and bonding smart contracts) https://omniscia.io/olympusdao-algorithmic-currency-protocol/
+
+
