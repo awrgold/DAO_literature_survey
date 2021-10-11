@@ -22,6 +22,7 @@
 ### DAOs:
 
 - **Massive list of DAO projects:** https://docs.google.com/spreadsheets/d/16dhiRApEsZMRycL5IVG4oRUj8let_dGqdvzLbMB2mbw/edit?usp=sharing)
+- **List of many finance DAOs and their assets:** https://openorgs.info/
 
 **Noteworthy DAOs:**
 
