@@ -46,6 +46,9 @@
 1. **TraderJoe**: https://www.blocmates.com/blogmates/the-complete-guide-to-trader-joe-and-the-joe-token  (DeFi + Governance token)
 1. **OlympusDAO** - https://www.olympusdao.finance/
     - **OlympusDAO's Application to MakerDAO for onboarding**: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
+    - **OlympusDAO Notion Site**: https://olympusdao.notion.site/olympusdao/OlympusDAO-acbb36bad530487ca26d37d1caf5be81#ad174708ff424492b3d51643d8e8bfd3
+    - **OlympusDAO Discord**: https://discord.gg/olympuswork
+    - **OlympusDAO Contribution Discord**: https://discord.gg/olympuswork
 1. **NounsDAO** - https://nouns.wtf/
 1. **Klima DAO** - https://klimadao.finance/
 1. **BrightID** - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
