@@ -50,6 +50,7 @@
     - **OlympusDAO Notion Site**: https://olympusdao.notion.site/olympusdao/OlympusDAO-acbb36bad530487ca26d37d1caf5be81#ad174708ff424492b3d51643d8e8bfd3
     - **OlympusDAO Discord**: https://discord.gg/olympuswork
     - **OlympusDAO Contribution Discord**: https://discord.gg/olympuswork
+    - **OIP-18**: Reducing reward rates: https://forum.olympusdao.finance/d/77-oip-18-reward-rate-framework-and-reduction
 1. **NounsDAO** - https://nouns.wtf/
 1. **Klima DAO** - https://klimadao.finance/
 1. **BrightID** - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
