@@ -95,6 +95,7 @@
 12. **Original Ethereum DAO:** [OG DAO Paper 2015.pdf](DAO\OG DAO Paper 2015.pdf) 
 13. **Social DAOs:** [Social DAO transforming economy.pdf](DAO\Social DAO transforming economy.pdf) 
 14. **Auctions as a solution to MEV crisis:** https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788
+15. **Futarchy as a form of Token Governance:** https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
 
 
 
