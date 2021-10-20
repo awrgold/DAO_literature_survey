@@ -58,6 +58,7 @@
     - **BrightDAO**: the DAO governing BrightID's continued development: https://www.brightid.org/whitepaper
 1. **Lido** - a liquidity pool on Ethereum: https://lido.fi/
     - **Lido DAO**: The governance DAO behind Lido: https://mainnet.lido.fi/#/lido-dao/
+1. **DefiKindgoms** - A Defi marketplace with an RPG attached that "gamifies" the Defi process. https://docs.defikingdoms.com/
 
 
 ### Legal
