@@ -59,6 +59,8 @@
 1. **Lido** - a liquidity pool on Ethereum: https://lido.fi/
     - **Lido DAO**: The governance DAO behind Lido: https://mainnet.lido.fi/#/lido-dao/
 1. **DefiKindgoms** - A Defi marketplace with an RPG attached that "gamifies" the Defi process. https://docs.defikingdoms.com/
+1. **CurveDAO** - A DAO governing Curve finance, a Defi protocol https://github.com/curvefi/curve-dao-contracts/blob/master/doc/README.md
+
 
 
 ### Legal
@@ -98,6 +100,7 @@
 13. **Social DAOs:** [Social DAO transforming economy.pdf](DAO\Social DAO transforming economy.pdf) 
 14. **Auctions as a solution to MEV crisis:** https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788
 15. **Futarchy as a form of Token Governance:** https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
+16. **Aragon:** https://hack.aragon.org/docs/getting-started.html
 
 
 
