@@ -55,6 +55,8 @@
     - **News:**
         - **Defi Experiments:** https://insights.glassnode.com/defi-uncovered-experiments-in-money-and-value/
         - **What is OHM?:** https://newsletter.banklesshq.com/p/wtf-is-olympus-dao
+    - **Videos:**
+        - **Olympus 101:** https://www.youtube.com/watch?v=XaKpam-EfFA
 1. **NounsDAO** - https://nouns.wtf/
 1. **Klima DAO** - https://klimadao.finance/
 1. **BrightID** - A tool for verifying unique identity (instead of using wallet signatures, which one person can have many of) https://www.brightid.org/
