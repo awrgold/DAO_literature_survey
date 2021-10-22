@@ -52,6 +52,7 @@
     - **OlympusDAO Contribution Discord**: https://discord.gg/olympuswork
     - **OIP-18**: (Proposal to reduce reward rates) https://forum.olympusdao.finance/d/77-oip-18-reward-rate-framework-and-reduction
     - **Contracts:** https://github.com/OlympusDAO/olympus-contracts/pulls
+    - **Policy Dashboard:** https://dune.xyz/shadow/Olympus-Policy
     - **News:**
         - **Defi Experiments:** https://insights.glassnode.com/defi-uncovered-experiments-in-money-and-value/
         - **What is OHM?:** https://newsletter.banklesshq.com/p/wtf-is-olympus-dao
