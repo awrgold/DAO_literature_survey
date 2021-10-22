@@ -68,6 +68,7 @@
 1. **DefiKindgoms** - A Defi marketplace with an RPG attached that "gamifies" the Defi process. https://docs.defikingdoms.com/
 1. **CurveDAO** - A DAO governing Curve finance, a Defi protocol: https://github.com/curvefi/curve-dao-contracts/blob/master/doc/README.md
 1. **FRAX** - Algorithmic partially fractionally-reserved stablecoin: https://docs.frax.finance/overview
+1. **TEMPLEDAO** https://www.templedao.link/
 
 
 
