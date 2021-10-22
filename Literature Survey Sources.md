@@ -50,7 +50,7 @@
     - **OlympusDAO Notion Site**: https://olympusdao.notion.site/olympusdao/OlympusDAO-acbb36bad530487ca26d37d1caf5be81#ad174708ff424492b3d51643d8e8bfd3
     - **OlympusDAO Discord**: https://discord.gg/olympuswork
     - **OlympusDAO Contribution Discord**: https://discord.gg/olympuswork
-    - **OIP-18**: Reducing reward rates: https://forum.olympusdao.finance/d/77-oip-18-reward-rate-framework-and-reduction
+    - **OIP-18**: (Reducing reward rates) https://forum.olympusdao.finance/d/77-oip-18-reward-rate-framework-and-reduction
     - **Contracts:** https://github.com/OlympusDAO/olympus-contracts/pulls
     - **News:**
         - **Defi Experiments:** https://insights.glassnode.com/defi-uncovered-experiments-in-money-and-value/
