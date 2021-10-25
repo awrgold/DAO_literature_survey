@@ -28,6 +28,7 @@
 
 1. **MakerDAO**: https://makerdao.com
     - https://makerdao.com/en/whitepaper
+    - **DAI Stablecoin** (backed by ETH deposits) - https://developer.makerdao.com/dai/1/
 1. **MolochDAO**: https://www.molochdao.com/
 1. **Colony**: https://colony.io/
 1. **Compound Finance**: https://compound.finance/docs
