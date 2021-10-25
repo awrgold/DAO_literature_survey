@@ -132,3 +132,7 @@
 14. **Cairo:** STARK proofs for computation on Ethereum: https://medium.com/starkware/hello-cairo-3cb43b13b209
 15. **Aleph.im:** A L2 cross-chain solution for decentralized computing and storage for dApps: https://aleph.im/#/
     - https://news.ubisoft.com/en-ca/article/3yFV0gdceUtmM9fSxLdUuy/ubisoft-entrepreneurs-lab-season-6-and-positive-entertainment
+
+
+### In the news:
+1. **CNBC DAO explainer**: https://www.cnbc.com/2021/10/25/what-are-daos-what-to-know-about-the-next-big-trend-in-crypto.html
