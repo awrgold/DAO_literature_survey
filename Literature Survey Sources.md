@@ -112,7 +112,7 @@
 14. **Auctions as a solution to MEV crisis:** https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788
 15. **Futarchy as a form of Token Governance:** https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
 16. **Aragon:** https://hack.aragon.org/docs/getting-started.html
-
+17. **Conversation on DAOs:** https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation
 
 
 ### Hardware, Software, and Tools: 
