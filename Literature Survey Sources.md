@@ -30,6 +30,8 @@
     - https://makerdao.com/en/whitepaper
     - **DAI Stablecoin** (backed by ETH deposits) - https://developer.makerdao.com/dai/1/
     - **How to "destroy" MakerDAO and DAI** - https://medium.com/@coltonrobtoy/how-to-destroy-makerdao-f367925f38b5
+    - DAI's stability: https://medium.com/@mikeraymcdonald/single-collateral-dai-9-months-in-review-b9d9fbe45ab
+    - a16z investment: https://fortune.com/2018/10/01/crypto-ethereum-stablecoin-vc-andreessen-horowitz/
 1. **MolochDAO**: https://www.molochdao.com/
 1. **Colony**: https://colony.io/
 1. **Compound Finance**: https://compound.finance/docs
