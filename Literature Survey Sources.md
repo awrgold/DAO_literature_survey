@@ -118,6 +118,7 @@
 15. **Futarchy as a form of Token Governance:** https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
 16. **Aragon:** https://hack.aragon.org/docs/getting-started.html
 17. **Conversation on DAOs:** https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation
+18. **MEV on POS Networks:** https://cryptobriefing.com/mev-and-proof-of-stake-with-eden-networks-caleb-sheridan/
 
 
 ### Hardware, Software, and Tools: 
