@@ -60,6 +60,7 @@
     - **Contracts:** https://github.com/OlympusDAO/olympus-contracts/pulls
     - **Olympus (OHM) Dashboard:** https://dune.xyz/shadow/Olympus-(OHM)
     - **Policy Dashboard:** https://dune.xyz/shadow/Olympus-Policy
+    - **Treasury Addresses:** https://docs.olympusdao.finance/main/contracts/treasury
     - **News:**
         - **Defi Experiments:** https://insights.glassnode.com/defi-uncovered-experiments-in-money-and-value/
         - **What is OHM?:** https://newsletter.banklesshq.com/p/wtf-is-olympus-dao
