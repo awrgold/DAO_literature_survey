@@ -61,6 +61,7 @@
     - **Olympus (OHM) Dashboard:** https://dune.xyz/shadow/Olympus-(OHM)
     - **Policy Dashboard:** https://dune.xyz/shadow/Olympus-Policy
         - **Policy Addresses:** https://docs.olympusdao.finance/main/contracts/policy
+        - **Improvement Proposals (OIPs):** https://forum.olympusdao.finance/t/proposal
     - **Treasury Addresses:** https://docs.olympusdao.finance/main/contracts/treasury
         - **Zapper bundle:** https://zapper.fi/bundle/0x9a315bdf513367c0377fb36545857d12e85813ef,0x31f8cc382c9898b273eff4e0b7626a6987c846e8,0x408a9a09d97103022f53300a3a14ca6c3ff867e8,0x10B569271912CD3342d183c0f2dC4b5D5880b741,0x0e1177e47151be72e5992e0975000e73ab5fd9d4,0x0316508a1b5abf1cae42912dc2c8b9774b682ffc,0xe06efA3D9Ee6923240ee1195A16ddd96B5CcE8F7,0x2bC001fFEB862d843e0a02a7163C7d4828e5FB10,0xdfc95aaf0a107daae2b350458ded4b7906e7f728?label=&id=
     - **News:**
